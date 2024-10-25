@@ -1,6 +1,6 @@
 # Traffic Lights Intersection Simulator
 
-This project simulates a traffic lights intersection.
+This project simulates a traffic lights intersection. You can go to https://ssn34.github.io/traffic-signal-simulation/build/ for testing the simulation.
 
 ## Getting Started
 
