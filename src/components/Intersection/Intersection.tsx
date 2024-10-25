@@ -41,7 +41,7 @@ function Intersection() {
         return () => {
             clearTimeout(timeoutId);
         };
-    }, [signalIndex]);
+    }, [signalIndex, greenTimeSpan]);
 
 
 
